@@ -18,7 +18,7 @@ A full-stack AI-powered writing assistant built with the MERN stack. This applic
 
 | Pricing & Stripe Checkout | Admin Dashboard |
 | :---: | :---: |
-| ![Pricing](./screenshots/screenshot3.png) | ![Admin Dashboard](./screenshots/screenshots4.png) |
+| ![Pricing](./screenshots/screenshot3.png) | ![Admin Dashboard](./screenshots/screenshot4.png) |
 
 ##  Tech Stack
 
